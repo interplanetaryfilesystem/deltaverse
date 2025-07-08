@@ -1,4 +1,3 @@
-# Tauri Workflow Template
 <a href="https://github.com/javascriptit">javascriptIT</a><br />
 A production-ready template for building cross-platform desktop applications using Tauri 2.0, React 18.3, TypeScript 5.6, and Blueprint.js 6.0. This template provides everything you need to start building modern desktop apps with comprehensive tooling, CI/CD pipelines, and a professional development workflow.
 
